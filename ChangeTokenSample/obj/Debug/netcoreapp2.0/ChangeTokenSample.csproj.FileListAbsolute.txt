@@ -1,0 +1,10 @@
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeTokenSample\bin\Debug\netcoreapp2.0\ChangeTokenSample.deps.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeTokenSample\bin\Debug\netcoreapp2.0\ChangeTokenSample.runtimeconfig.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeTokenSample\bin\Debug\netcoreapp2.0\ChangeTokenSample.runtimeconfig.dev.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeTokenSample\bin\Debug\netcoreapp2.0\ChangeTokenSample.dll
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeTokenSample\obj\Debug\netcoreapp2.0\ChangeTokenSample.csproj.CoreCompileInputs.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeTokenSample\obj\Debug\netcoreapp2.0\ChangeTokenSample.AssemblyInfoInputs.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeTokenSample\obj\Debug\netcoreapp2.0\ChangeTokenSample.AssemblyInfo.cs
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeTokenSample\bin\Debug\netcoreapp2.0\ChangeTokenSample.pdb
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeTokenSample\obj\Debug\netcoreapp2.0\ChangeTokenSample.dll
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeTokenSample\obj\Debug\netcoreapp2.0\ChangeTokenSample.pdb

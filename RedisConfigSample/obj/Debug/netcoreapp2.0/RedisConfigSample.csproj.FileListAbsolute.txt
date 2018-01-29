@@ -1,0 +1,13 @@
+D:\projects\netcore\ConfigSamples\ConfigSamples\RedisConfigSample\bin\Debug\netcoreapp2.0\RedisConfigSample.deps.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\RedisConfigSample\bin\Debug\netcoreapp2.0\RedisConfigSample.runtimeconfig.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\RedisConfigSample\bin\Debug\netcoreapp2.0\RedisConfigSample.runtimeconfig.dev.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\RedisConfigSample\bin\Debug\netcoreapp2.0\RedisConfigSample.dll
+D:\projects\netcore\ConfigSamples\ConfigSamples\RedisConfigSample\bin\Debug\netcoreapp2.0\RedisConfigSample.pdb
+D:\projects\netcore\ConfigSamples\ConfigSamples\RedisConfigSample\bin\Debug\netcoreapp2.0\Jessetalk.Extensions.Configuration.Redis.dll
+D:\projects\netcore\ConfigSamples\ConfigSamples\RedisConfigSample\bin\Debug\netcoreapp2.0\Jessetalk.Extensions.Configuration.Redis.pdb
+D:\projects\netcore\ConfigSamples\ConfigSamples\RedisConfigSample\obj\Debug\netcoreapp2.0\RedisConfigSample.csprojResolveAssemblyReference.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\RedisConfigSample\obj\Debug\netcoreapp2.0\RedisConfigSample.csproj.CoreCompileInputs.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\RedisConfigSample\obj\Debug\netcoreapp2.0\RedisConfigSample.AssemblyInfoInputs.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\RedisConfigSample\obj\Debug\netcoreapp2.0\RedisConfigSample.AssemblyInfo.cs
+D:\projects\netcore\ConfigSamples\ConfigSamples\RedisConfigSample\obj\Debug\netcoreapp2.0\RedisConfigSample.dll
+D:\projects\netcore\ConfigSamples\ConfigSamples\RedisConfigSample\obj\Debug\netcoreapp2.0\RedisConfigSample.pdb

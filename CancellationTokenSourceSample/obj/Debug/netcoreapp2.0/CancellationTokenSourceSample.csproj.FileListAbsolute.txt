@@ -1,0 +1,11 @@
+D:\projects\netcore\ConfigSamples\ConfigSamples\CancellationTokenSourceSample\bin\Debug\netcoreapp2.0\CancellationTokenSourceSample.deps.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\CancellationTokenSourceSample\bin\Debug\netcoreapp2.0\CancellationTokenSourceSample.runtimeconfig.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\CancellationTokenSourceSample\bin\Debug\netcoreapp2.0\CancellationTokenSourceSample.runtimeconfig.dev.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\CancellationTokenSourceSample\bin\Debug\netcoreapp2.0\CancellationTokenSourceSample.dll
+D:\projects\netcore\ConfigSamples\ConfigSamples\CancellationTokenSourceSample\bin\Debug\netcoreapp2.0\CancellationTokenSourceSample.pdb
+D:\projects\netcore\ConfigSamples\ConfigSamples\CancellationTokenSourceSample\obj\Debug\netcoreapp2.0\CancellationTokenSourceSample.csprojResolveAssemblyReference.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\CancellationTokenSourceSample\obj\Debug\netcoreapp2.0\CancellationTokenSourceSample.csproj.CoreCompileInputs.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\CancellationTokenSourceSample\obj\Debug\netcoreapp2.0\CancellationTokenSourceSample.AssemblyInfoInputs.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\CancellationTokenSourceSample\obj\Debug\netcoreapp2.0\CancellationTokenSourceSample.AssemblyInfo.cs
+D:\projects\netcore\ConfigSamples\ConfigSamples\CancellationTokenSourceSample\obj\Debug\netcoreapp2.0\CancellationTokenSourceSample.dll
+D:\projects\netcore\ConfigSamples\ConfigSamples\CancellationTokenSourceSample\obj\Debug\netcoreapp2.0\CancellationTokenSourceSample.pdb

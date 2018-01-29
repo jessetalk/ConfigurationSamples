@@ -1,0 +1,12 @@
+D:\projects\netcore\ConfigSamples\ConfigSamples\JosnConfigSample\bin\Debug\netcoreapp2.0\settings.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\JosnConfigSample\bin\Debug\netcoreapp2.0\JosnConfigSample.deps.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\JosnConfigSample\bin\Debug\netcoreapp2.0\JosnConfigSample.runtimeconfig.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\JosnConfigSample\bin\Debug\netcoreapp2.0\JosnConfigSample.runtimeconfig.dev.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\JosnConfigSample\bin\Debug\netcoreapp2.0\JosnConfigSample.dll
+D:\projects\netcore\ConfigSamples\ConfigSamples\JosnConfigSample\bin\Debug\netcoreapp2.0\JosnConfigSample.pdb
+D:\projects\netcore\ConfigSamples\ConfigSamples\JosnConfigSample\obj\Debug\netcoreapp2.0\JosnConfigSample.csprojResolveAssemblyReference.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\JosnConfigSample\obj\Debug\netcoreapp2.0\JosnConfigSample.csproj.CoreCompileInputs.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\JosnConfigSample\obj\Debug\netcoreapp2.0\JosnConfigSample.AssemblyInfoInputs.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\JosnConfigSample\obj\Debug\netcoreapp2.0\JosnConfigSample.AssemblyInfo.cs
+D:\projects\netcore\ConfigSamples\ConfigSamples\JosnConfigSample\obj\Debug\netcoreapp2.0\JosnConfigSample.dll
+D:\projects\netcore\ConfigSamples\ConfigSamples\JosnConfigSample\obj\Debug\netcoreapp2.0\JosnConfigSample.pdb

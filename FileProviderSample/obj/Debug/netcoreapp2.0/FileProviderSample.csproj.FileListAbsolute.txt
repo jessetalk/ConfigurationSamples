@@ -1,0 +1,11 @@
+d:\projects\netcore\ConfigSamples\ConfigSamples\FileProviderSample\bin\Debug\netcoreapp2.0\FileProviderSample.deps.json
+d:\projects\netcore\ConfigSamples\ConfigSamples\FileProviderSample\bin\Debug\netcoreapp2.0\FileProviderSample.runtimeconfig.json
+d:\projects\netcore\ConfigSamples\ConfigSamples\FileProviderSample\bin\Debug\netcoreapp2.0\FileProviderSample.runtimeconfig.dev.json
+d:\projects\netcore\ConfigSamples\ConfigSamples\FileProviderSample\bin\Debug\netcoreapp2.0\FileProviderSample.dll
+d:\projects\netcore\ConfigSamples\ConfigSamples\FileProviderSample\obj\Debug\netcoreapp2.0\FileProviderSample.csprojResolveAssemblyReference.cache
+d:\projects\netcore\ConfigSamples\ConfigSamples\FileProviderSample\obj\Debug\netcoreapp2.0\FileProviderSample.csproj.CoreCompileInputs.cache
+d:\projects\netcore\ConfigSamples\ConfigSamples\FileProviderSample\obj\Debug\netcoreapp2.0\FileProviderSample.AssemblyInfoInputs.cache
+d:\projects\netcore\ConfigSamples\ConfigSamples\FileProviderSample\obj\Debug\netcoreapp2.0\FileProviderSample.AssemblyInfo.cs
+d:\projects\netcore\ConfigSamples\ConfigSamples\FileProviderSample\bin\Debug\netcoreapp2.0\FileProviderSample.pdb
+d:\projects\netcore\ConfigSamples\ConfigSamples\FileProviderSample\obj\Debug\netcoreapp2.0\FileProviderSample.dll
+d:\projects\netcore\ConfigSamples\ConfigSamples\FileProviderSample\obj\Debug\netcoreapp2.0\FileProviderSample.pdb

@@ -1,0 +1,11 @@
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeNotification\bin\Debug\netcoreapp2.0\ChangeNotification.deps.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeNotification\bin\Debug\netcoreapp2.0\ChangeNotification.runtimeconfig.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeNotification\bin\Debug\netcoreapp2.0\ChangeNotification.runtimeconfig.dev.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeNotification\bin\Debug\netcoreapp2.0\ChangeNotification.dll
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeNotification\obj\Debug\netcoreapp2.0\ChangeNotification.csproj.CoreCompileInputs.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeNotification\obj\Debug\netcoreapp2.0\ChangeNotification.AssemblyInfoInputs.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeNotification\obj\Debug\netcoreapp2.0\ChangeNotification.AssemblyInfo.cs
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeNotification\bin\Debug\netcoreapp2.0\ChangeNotification.pdb
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeNotification\obj\Debug\netcoreapp2.0\ChangeNotification.dll
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeNotification\obj\Debug\netcoreapp2.0\ChangeNotification.pdb
+D:\projects\netcore\ConfigSamples\ConfigSamples\ChangeNotification\obj\Debug\netcoreapp2.0\ChangeNotification.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\projects\netcore\ConfigSamples\ConfigSamples\OptionsBindSample\bin\Debug\netcoreapp2.0\OptionsBindSample.deps.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\OptionsBindSample\bin\Debug\netcoreapp2.0\OptionsBindSample.runtimeconfig.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\OptionsBindSample\bin\Debug\netcoreapp2.0\OptionsBindSample.runtimeconfig.dev.json
+D:\projects\netcore\ConfigSamples\ConfigSamples\OptionsBindSample\bin\Debug\netcoreapp2.0\OptionsBindSample.dll
+D:\projects\netcore\ConfigSamples\ConfigSamples\OptionsBindSample\bin\Debug\netcoreapp2.0\OptionsBindSample.pdb
+D:\projects\netcore\ConfigSamples\ConfigSamples\OptionsBindSample\obj\Debug\netcoreapp2.0\OptionsBindSample.csprojResolveAssemblyReference.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\OptionsBindSample\obj\Debug\netcoreapp2.0\OptionsBindSample.csproj.CoreCompileInputs.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\OptionsBindSample\obj\Debug\netcoreapp2.0\OptionsBindSample.AssemblyInfoInputs.cache
+D:\projects\netcore\ConfigSamples\ConfigSamples\OptionsBindSample\obj\Debug\netcoreapp2.0\OptionsBindSample.AssemblyInfo.cs
+D:\projects\netcore\ConfigSamples\ConfigSamples\OptionsBindSample\obj\Debug\netcoreapp2.0\OptionsBindSample.dll
+D:\projects\netcore\ConfigSamples\ConfigSamples\OptionsBindSample\obj\Debug\netcoreapp2.0\OptionsBindSample.pdb

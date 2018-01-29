@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandLineConfig": {
+      "commandName": "Project",
+      "commandLineArgs": "name=jesse age=19"
+    }
+  }
+}
